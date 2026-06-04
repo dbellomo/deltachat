@@ -4,7 +4,7 @@
 
 Descargar e instalar la app
 
-![](deltachat/playstore.png)
+![](playstore.png)
 
 ## Configurar cuenta
 
@@ -14,7 +14,7 @@ Al iniciar deltachat veran un signo "+". Desde ahí se crea la cuenta
 
 Seleccionan "crear perfil nuevo"
 
-![](https://daniel.bellomo.ar/deltachat/nombre.png)
+![](nombre.png)
 
 completan el nombre y luego seleccionan "aceptar y crear perfil"
 
