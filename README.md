@@ -18,4 +18,4 @@ Seleccionan "crear perfil nuevo"
 
 completan el nombre y luego seleccionan "aceptar y crear perfil"
 
-Listo, ya tienen la cuenta creada.
+Listo! ya tienen la cuenta creada.
