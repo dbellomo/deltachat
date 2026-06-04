@@ -14,7 +14,7 @@ Al iniciar deltachat veran un signo "+". Desde ahí se crea la cuenta
 
 Seleccionan "crear perfil nuevo"
 
-[](nombre.png)
+[](https://daniel.bellomo.ar/deltachat/nombre.png)
 
 completan el nombre y luego seleccionan "aceptar y crear perfil"
 
