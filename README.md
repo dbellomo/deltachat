@@ -1,4 +1,4 @@
-# Tutorial de instalación y configuración
+# Delta Chat: Tutorial de instalación y configuración
 
 ## Instalación en Android
 
