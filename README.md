@@ -4,7 +4,7 @@
 
 Descargar e instalar la app
 
-[](playstore.png)
+[](deltachet/playstore.png)
 
 ## Configurar cuenta
 
